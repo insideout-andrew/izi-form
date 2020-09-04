@@ -2,7 +2,7 @@
 
 > This component library built with Vue and VeeValidate creates ADA-friendly forms with live error handling and no style depencies. This allows you to create easily stylable and customizable forms with tons of functionality in just a few lines of code.
 
-Github link(https://github.com/insideout-andrew/izi-form)
+[Github link](https://github.com/insideout-andrew/izi-form)
 
 ## [💯 Demo and Examples 💯](https://codesandbox.io/s/peaceful-meadow-jkgoy)
 
